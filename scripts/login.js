@@ -1,6 +1,6 @@
 const users = {
   "admin@gmail.com": {
-    password: "123",
+    password: "1234",
     role: "admin",
   },
   "user@gmail.com": {
