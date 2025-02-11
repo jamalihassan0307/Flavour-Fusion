@@ -11,7 +11,7 @@
 
 # 📌 Overview
 
-Flavor Fusion is a dynamic recipe sharing platform that brings food enthusiasts together. Built with modern web technologies, this platform allows users to discover, share, and manage recipes while providing administrators with powerful content management capabilities.
+Flavor Fusion is a modern recipe-sharing platform where food lovers can discover, share, and manage recipes with ease.
 
 # 🛠️ Tech Stack
 
